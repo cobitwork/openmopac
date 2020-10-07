@@ -1,2 +1,2 @@
-# openmopac
+# Open MOPAC
 open mopac
